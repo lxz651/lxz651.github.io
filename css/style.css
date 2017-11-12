@@ -6,8 +6,17 @@
 	color:#e55619;
 }
 
+.navbar-brand{
+	color: white;
+}
+
+.nav-link{
+	color: white;
+}
+
 body{
 font-family: 'Rozha One', serif;
+background-image: url("../img/5.jpg");
 }
 
 h1{
@@ -23,7 +32,7 @@ h2{
 }
 
 .my-nav{
-	background-color: pink;
+	background-color: gray;
 }
 .container2{
 	background-image: url("../img/5.jpg");
