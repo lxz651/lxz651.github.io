@@ -14,9 +14,14 @@
 	color: white;
 }
 
+h1{
+	font-size: 35px；
+}
+
 body{
 font-family: 'Rozha One', serif;
-background-image: url("../img/5.jpg");
+background-image: url("../img/7.jpg");
+background-image:width:100%;
 }
 
 h1{
@@ -35,4 +40,4 @@ h2{
 	background-color: gray;
 }
 .container2{
-	background-image: url("../img/5.jpg");
+	background-image: url("../img/7.jpg");
