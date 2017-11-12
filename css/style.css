@@ -1,0 +1,29 @@
+.profile-pic{
+	max-width: 100%;
+}
+
+.profile-title{
+	color:#e55619;
+}
+
+body{
+font-family: 'Rozha One', serif;
+}
+
+h1{
+	font-family: 'Anton', sans-serif;
+}
+
+h2{
+	color:#102659;
+}
+
+.presents-progress{
+	background-color: pink; 
+}
+
+.my-nav{
+	background-color: pink;
+}
+.container2{
+	background-image: url("../img/5.jpg");
